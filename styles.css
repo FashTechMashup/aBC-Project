@@ -8,6 +8,7 @@ h2 {
 }
 
 p:hover {
-  color: blue;
+  color: red;
   font-style: italic;
+  font-size: 100px;
 }
