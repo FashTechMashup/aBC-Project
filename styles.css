@@ -9,4 +9,5 @@ h2 {
 
 p:hover {
   color: blue;
+  font-style: italic;
 }
